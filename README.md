@@ -4,7 +4,7 @@ A lightweight, high-performance Apple Music link extractor written in Python. Sh
 
 ---
 
-## 🚀 Features
+## 🚀 Features of this Api Endpoint
 
 - **Pure JSON API (No UI)**: 100% JSON endpoints returning direct extracted MP3 download links.
 - **Ultra-Fast Speed**: Average response time of **3~4 sec** for link extraction.
@@ -37,16 +37,9 @@ python api/index.py
 ## 🌐 Deploying to Vercel
 
 This repository is pre-configured for Vercel deployment with `vercel.json` and `api/index.py`.
-
-### Deploy via Vercel CLI:
-```bash
-cd Apple-Music-Downloader
-vercel
-```
-
 ---
 
-## 🔌 JSON API Usage
+## 🔌 API Usage
 
 ### 1. API Status (GET /)
 ```http
