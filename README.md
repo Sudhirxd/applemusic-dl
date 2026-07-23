@@ -1,4 +1,4 @@
-# 🍏 Apple Music Extractor JSON API (Vercel-Friendly)
+#  Apple Music Downloader JSON API 
 
 A lightweight, high-performance Apple Music link extractor written in Python. Ships as a **Vercel-Friendly Pure JSON API** that returns direct extracted download links.
 
